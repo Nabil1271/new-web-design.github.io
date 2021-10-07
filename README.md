@@ -1,4 +1,4 @@
-#NEWWEBDESIGN.github.io
+#sample.github.io
 web site for web design
 <!doctype html>
 <html lang="en">
